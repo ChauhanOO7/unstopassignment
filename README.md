@@ -1,3 +1,10 @@
+# frontend github link:
+https://github.com/ChauhanOO7/unstopfrontend
+
+# backend github link:
+https://github.com/ChauhanOO7/unstopassignment
+
+
 # unstopassignment
 
 # Apparel Submission Platform - MVP
@@ -46,8 +53,6 @@ MongoDB (use MongoDB Atlas or a local instance)
 Backend Setup
 Clone the repository:
 
-bash
-Copy code
 https://github.com/ChauhanOO7/unstopassignment.git
 Navigate to the backend directory:
 
@@ -70,6 +75,9 @@ npm start
 The backend will be running at http://localhost:5000.
 
 Frontend Setup
+Clone the repository:
+
+https://github.com/ChauhanOO7/unstopfrontend.git
 Navigate to the frontend directory:
 
 cd ../frontend
